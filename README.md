@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>说人话：让 AI 第一句就告诉你该做什么。</strong>
+  <strong>说人话 skill，让 AI 说人话。</strong>
 </p>
 <p align="center">
   <a href="LICENSE"><img src="https://img.shields.io/github/license/fengyiqicoder/shuorenhua?style=flat" alt="License"></a>
