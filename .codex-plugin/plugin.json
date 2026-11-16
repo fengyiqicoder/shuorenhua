@@ -1,0 +1,28 @@
+{
+  "name": "shuorenhua",
+  "version": "0.1.0",
+  "description": "说人话：让 Codex 第一句就告诉你该做什么。先给动作，步骤编号，不跑题，进度看得见。",
+  "author": {
+    "name": "fengyiqicoder",
+    "url": "https://github.com/fengyiqicoder"
+  },
+  "homepage": "https://github.com/fengyiqicoder/shuorenhua",
+  "repository": "https://github.com/fengyiqicoder/shuorenhua",
+  "license": "MIT",
+  "keywords": ["output-style", "productivity", "skills", "codex", "chinese"],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "说人话",
+    "shortDescription": "先给动作的中文输出规则",
+    "longDescription": "让 Codex 的回答拿到就能动手：第一句就是下一步动作，多步骤编号，不跑题，每轮重申进度，让成果看得见。",
+    "developerName": "fengyiqicoder",
+    "category": "Productivity",
+    "capabilities": ["Instructions"],
+    "websiteURL": "https://github.com/fengyiqicoder/shuorenhua",
+    "defaultPrompt": [
+      "用说人话模式完成这个任务。",
+      "把这个回答改成先给动作、容易执行的样子。"
+    ],
+    "brandColor": "#2563EB"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "shuorenhua",
+  "description": "说人话：先给动作，步骤编号，不跑题。",
+  "owner": {
+    "name": "fengyiqicoder"
+  },
+  "plugins": [
+    {
+      "name": "shuorenhua",
+      "description": "说人话：先给动作、步骤编号、不跑题的中文输出规则。",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}
